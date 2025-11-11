@@ -1,0 +1,14 @@
+C:\Users\Vinicio\source\repos\ConversorMoeda\bin\Debug\net8.0\ConversorMoeda.exe
+C:\Users\Vinicio\source\repos\ConversorMoeda\bin\Debug\net8.0\ConversorMoeda.deps.json
+C:\Users\Vinicio\source\repos\ConversorMoeda\bin\Debug\net8.0\ConversorMoeda.runtimeconfig.json
+C:\Users\Vinicio\source\repos\ConversorMoeda\bin\Debug\net8.0\ConversorMoeda.dll
+C:\Users\Vinicio\source\repos\ConversorMoeda\bin\Debug\net8.0\ConversorMoeda.pdb
+C:\Users\Vinicio\source\repos\ConversorMoeda\obj\Debug\net8.0\ConversorMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicio\source\repos\ConversorMoeda\obj\Debug\net8.0\ConversorMoeda.AssemblyInfoInputs.cache
+C:\Users\Vinicio\source\repos\ConversorMoeda\obj\Debug\net8.0\ConversorMoeda.AssemblyInfo.cs
+C:\Users\Vinicio\source\repos\ConversorMoeda\obj\Debug\net8.0\ConversorMoeda.csproj.CoreCompileInputs.cache
+C:\Users\Vinicio\source\repos\ConversorMoeda\obj\Debug\net8.0\ConversorMoeda.dll
+C:\Users\Vinicio\source\repos\ConversorMoeda\obj\Debug\net8.0\refint\ConversorMoeda.dll
+C:\Users\Vinicio\source\repos\ConversorMoeda\obj\Debug\net8.0\ConversorMoeda.pdb
+C:\Users\Vinicio\source\repos\ConversorMoeda\obj\Debug\net8.0\ConversorMoeda.genruntimeconfig.cache
+C:\Users\Vinicio\source\repos\ConversorMoeda\obj\Debug\net8.0\ref\ConversorMoeda.dll

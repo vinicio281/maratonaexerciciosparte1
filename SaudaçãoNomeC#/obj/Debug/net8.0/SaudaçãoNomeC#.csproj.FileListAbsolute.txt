@@ -1,0 +1,14 @@
+C:\Users\Vinicio\source\repos\SaudaçãoNomeC#\bin\Debug\net8.0\SaudaçãoNomeC#.exe
+C:\Users\Vinicio\source\repos\SaudaçãoNomeC#\bin\Debug\net8.0\SaudaçãoNomeC#.deps.json
+C:\Users\Vinicio\source\repos\SaudaçãoNomeC#\bin\Debug\net8.0\SaudaçãoNomeC#.runtimeconfig.json
+C:\Users\Vinicio\source\repos\SaudaçãoNomeC#\bin\Debug\net8.0\SaudaçãoNomeC#.dll
+C:\Users\Vinicio\source\repos\SaudaçãoNomeC#\bin\Debug\net8.0\SaudaçãoNomeC#.pdb
+C:\Users\Vinicio\source\repos\SaudaçãoNomeC#\obj\Debug\net8.0\SaudaçãoNomeC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicio\source\repos\SaudaçãoNomeC#\obj\Debug\net8.0\SaudaçãoNomeC#.AssemblyInfoInputs.cache
+C:\Users\Vinicio\source\repos\SaudaçãoNomeC#\obj\Debug\net8.0\SaudaçãoNomeC#.AssemblyInfo.cs
+C:\Users\Vinicio\source\repos\SaudaçãoNomeC#\obj\Debug\net8.0\SaudaçãoNomeC#.csproj.CoreCompileInputs.cache
+C:\Users\Vinicio\source\repos\SaudaçãoNomeC#\obj\Debug\net8.0\SaudaçãoNomeC#.dll
+C:\Users\Vinicio\source\repos\SaudaçãoNomeC#\obj\Debug\net8.0\refint\SaudaçãoNomeC#.dll
+C:\Users\Vinicio\source\repos\SaudaçãoNomeC#\obj\Debug\net8.0\SaudaçãoNomeC#.pdb
+C:\Users\Vinicio\source\repos\SaudaçãoNomeC#\obj\Debug\net8.0\SaudaçãoNomeC#.genruntimeconfig.cache
+C:\Users\Vinicio\source\repos\SaudaçãoNomeC#\obj\Debug\net8.0\ref\SaudaçãoNomeC#.dll

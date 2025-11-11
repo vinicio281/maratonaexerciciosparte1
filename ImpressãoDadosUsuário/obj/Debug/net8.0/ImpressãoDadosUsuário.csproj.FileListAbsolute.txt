@@ -1,0 +1,14 @@
+C:\Users\Vinicio\source\repos\ImpressãoDadosUsuário\bin\Debug\net8.0\ImpressãoDadosUsuário.exe
+C:\Users\Vinicio\source\repos\ImpressãoDadosUsuário\bin\Debug\net8.0\ImpressãoDadosUsuário.deps.json
+C:\Users\Vinicio\source\repos\ImpressãoDadosUsuário\bin\Debug\net8.0\ImpressãoDadosUsuário.runtimeconfig.json
+C:\Users\Vinicio\source\repos\ImpressãoDadosUsuário\bin\Debug\net8.0\ImpressãoDadosUsuário.dll
+C:\Users\Vinicio\source\repos\ImpressãoDadosUsuário\bin\Debug\net8.0\ImpressãoDadosUsuário.pdb
+C:\Users\Vinicio\source\repos\ImpressãoDadosUsuário\obj\Debug\net8.0\ImpressãoDadosUsuário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicio\source\repos\ImpressãoDadosUsuário\obj\Debug\net8.0\ImpressãoDadosUsuário.AssemblyInfoInputs.cache
+C:\Users\Vinicio\source\repos\ImpressãoDadosUsuário\obj\Debug\net8.0\ImpressãoDadosUsuário.AssemblyInfo.cs
+C:\Users\Vinicio\source\repos\ImpressãoDadosUsuário\obj\Debug\net8.0\ImpressãoDadosUsuário.csproj.CoreCompileInputs.cache
+C:\Users\Vinicio\source\repos\ImpressãoDadosUsuário\obj\Debug\net8.0\ImpressãoDadosUsuário.dll
+C:\Users\Vinicio\source\repos\ImpressãoDadosUsuário\obj\Debug\net8.0\refint\ImpressãoDadosUsuário.dll
+C:\Users\Vinicio\source\repos\ImpressãoDadosUsuário\obj\Debug\net8.0\ImpressãoDadosUsuário.pdb
+C:\Users\Vinicio\source\repos\ImpressãoDadosUsuário\obj\Debug\net8.0\ImpressãoDadosUsuário.genruntimeconfig.cache
+C:\Users\Vinicio\source\repos\ImpressãoDadosUsuário\obj\Debug\net8.0\ref\ImpressãoDadosUsuário.dll

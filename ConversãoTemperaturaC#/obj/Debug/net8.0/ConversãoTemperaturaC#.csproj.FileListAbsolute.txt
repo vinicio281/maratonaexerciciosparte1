@@ -1,0 +1,14 @@
+C:\Users\Vinicio\source\repos\ConversãoTemperaturaC#\bin\Debug\net8.0\ConversãoTemperaturaC#.exe
+C:\Users\Vinicio\source\repos\ConversãoTemperaturaC#\bin\Debug\net8.0\ConversãoTemperaturaC#.deps.json
+C:\Users\Vinicio\source\repos\ConversãoTemperaturaC#\bin\Debug\net8.0\ConversãoTemperaturaC#.runtimeconfig.json
+C:\Users\Vinicio\source\repos\ConversãoTemperaturaC#\bin\Debug\net8.0\ConversãoTemperaturaC#.dll
+C:\Users\Vinicio\source\repos\ConversãoTemperaturaC#\bin\Debug\net8.0\ConversãoTemperaturaC#.pdb
+C:\Users\Vinicio\source\repos\ConversãoTemperaturaC#\obj\Debug\net8.0\ConversãoTemperaturaC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicio\source\repos\ConversãoTemperaturaC#\obj\Debug\net8.0\ConversãoTemperaturaC#.AssemblyInfoInputs.cache
+C:\Users\Vinicio\source\repos\ConversãoTemperaturaC#\obj\Debug\net8.0\ConversãoTemperaturaC#.AssemblyInfo.cs
+C:\Users\Vinicio\source\repos\ConversãoTemperaturaC#\obj\Debug\net8.0\ConversãoTemperaturaC#.csproj.CoreCompileInputs.cache
+C:\Users\Vinicio\source\repos\ConversãoTemperaturaC#\obj\Debug\net8.0\ConversãoTemperaturaC#.dll
+C:\Users\Vinicio\source\repos\ConversãoTemperaturaC#\obj\Debug\net8.0\refint\ConversãoTemperaturaC#.dll
+C:\Users\Vinicio\source\repos\ConversãoTemperaturaC#\obj\Debug\net8.0\ConversãoTemperaturaC#.pdb
+C:\Users\Vinicio\source\repos\ConversãoTemperaturaC#\obj\Debug\net8.0\ConversãoTemperaturaC#.genruntimeconfig.cache
+C:\Users\Vinicio\source\repos\ConversãoTemperaturaC#\obj\Debug\net8.0\ref\ConversãoTemperaturaC#.dll
