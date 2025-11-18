@@ -1,0 +1,15 @@
+C:\Users\Vinicio\source\repos\CódigoDescontoProduto\bin\Debug\net8.0\CódigoDescontoProduto.exe
+C:\Users\Vinicio\source\repos\CódigoDescontoProduto\bin\Debug\net8.0\CódigoDescontoProduto.deps.json
+C:\Users\Vinicio\source\repos\CódigoDescontoProduto\bin\Debug\net8.0\CódigoDescontoProduto.runtimeconfig.json
+C:\Users\Vinicio\source\repos\CódigoDescontoProduto\bin\Debug\net8.0\CódigoDescontoProduto.dll
+C:\Users\Vinicio\source\repos\CódigoDescontoProduto\bin\Debug\net8.0\CódigoDescontoProduto.pdb
+C:\Users\Vinicio\source\repos\CódigoDescontoProduto\obj\Debug\net8.0\CódigoDescontoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicio\source\repos\CódigoDescontoProduto\obj\Debug\net8.0\CódigoDescontoProduto.AssemblyInfoInputs.cache
+C:\Users\Vinicio\source\repos\CódigoDescontoProduto\obj\Debug\net8.0\CódigoDescontoProduto.AssemblyInfo.cs
+C:\Users\Vinicio\source\repos\CódigoDescontoProduto\obj\Debug\net8.0\CódigoDescontoProduto.csproj.CoreCompileInputs.cache
+C:\Users\Vinicio\source\repos\CódigoDescontoProduto\obj\Debug\net8.0\CódigoDescontoProduto.sourcelink.json
+C:\Users\Vinicio\source\repos\CódigoDescontoProduto\obj\Debug\net8.0\CódigoDescontoProduto.dll
+C:\Users\Vinicio\source\repos\CódigoDescontoProduto\obj\Debug\net8.0\refint\CódigoDescontoProduto.dll
+C:\Users\Vinicio\source\repos\CódigoDescontoProduto\obj\Debug\net8.0\CódigoDescontoProduto.pdb
+C:\Users\Vinicio\source\repos\CódigoDescontoProduto\obj\Debug\net8.0\CódigoDescontoProduto.genruntimeconfig.cache
+C:\Users\Vinicio\source\repos\CódigoDescontoProduto\obj\Debug\net8.0\ref\CódigoDescontoProduto.dll

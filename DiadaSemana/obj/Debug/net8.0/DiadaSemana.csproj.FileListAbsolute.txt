@@ -1,0 +1,15 @@
+C:\Users\Vinicio\source\repos\DiadaSemana\bin\Debug\net8.0\DiadaSemana.exe
+C:\Users\Vinicio\source\repos\DiadaSemana\bin\Debug\net8.0\DiadaSemana.deps.json
+C:\Users\Vinicio\source\repos\DiadaSemana\bin\Debug\net8.0\DiadaSemana.runtimeconfig.json
+C:\Users\Vinicio\source\repos\DiadaSemana\bin\Debug\net8.0\DiadaSemana.dll
+C:\Users\Vinicio\source\repos\DiadaSemana\bin\Debug\net8.0\DiadaSemana.pdb
+C:\Users\Vinicio\source\repos\DiadaSemana\obj\Debug\net8.0\DiadaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicio\source\repos\DiadaSemana\obj\Debug\net8.0\DiadaSemana.AssemblyInfoInputs.cache
+C:\Users\Vinicio\source\repos\DiadaSemana\obj\Debug\net8.0\DiadaSemana.AssemblyInfo.cs
+C:\Users\Vinicio\source\repos\DiadaSemana\obj\Debug\net8.0\DiadaSemana.csproj.CoreCompileInputs.cache
+C:\Users\Vinicio\source\repos\DiadaSemana\obj\Debug\net8.0\DiadaSemana.sourcelink.json
+C:\Users\Vinicio\source\repos\DiadaSemana\obj\Debug\net8.0\DiadaSemana.dll
+C:\Users\Vinicio\source\repos\DiadaSemana\obj\Debug\net8.0\refint\DiadaSemana.dll
+C:\Users\Vinicio\source\repos\DiadaSemana\obj\Debug\net8.0\DiadaSemana.pdb
+C:\Users\Vinicio\source\repos\DiadaSemana\obj\Debug\net8.0\DiadaSemana.genruntimeconfig.cache
+C:\Users\Vinicio\source\repos\DiadaSemana\obj\Debug\net8.0\ref\DiadaSemana.dll

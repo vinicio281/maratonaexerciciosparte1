@@ -1,0 +1,15 @@
+C:\Users\Vinicio\source\repos\ProgramaDesconto\bin\Debug\net8.0\ProgramaDesconto.exe
+C:\Users\Vinicio\source\repos\ProgramaDesconto\bin\Debug\net8.0\ProgramaDesconto.deps.json
+C:\Users\Vinicio\source\repos\ProgramaDesconto\bin\Debug\net8.0\ProgramaDesconto.runtimeconfig.json
+C:\Users\Vinicio\source\repos\ProgramaDesconto\bin\Debug\net8.0\ProgramaDesconto.dll
+C:\Users\Vinicio\source\repos\ProgramaDesconto\bin\Debug\net8.0\ProgramaDesconto.pdb
+C:\Users\Vinicio\source\repos\ProgramaDesconto\obj\Debug\net8.0\ProgramaDesconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicio\source\repos\ProgramaDesconto\obj\Debug\net8.0\ProgramaDesconto.AssemblyInfoInputs.cache
+C:\Users\Vinicio\source\repos\ProgramaDesconto\obj\Debug\net8.0\ProgramaDesconto.AssemblyInfo.cs
+C:\Users\Vinicio\source\repos\ProgramaDesconto\obj\Debug\net8.0\ProgramaDesconto.csproj.CoreCompileInputs.cache
+C:\Users\Vinicio\source\repos\ProgramaDesconto\obj\Debug\net8.0\ProgramaDesconto.sourcelink.json
+C:\Users\Vinicio\source\repos\ProgramaDesconto\obj\Debug\net8.0\ProgramaDesconto.dll
+C:\Users\Vinicio\source\repos\ProgramaDesconto\obj\Debug\net8.0\refint\ProgramaDesconto.dll
+C:\Users\Vinicio\source\repos\ProgramaDesconto\obj\Debug\net8.0\ProgramaDesconto.pdb
+C:\Users\Vinicio\source\repos\ProgramaDesconto\obj\Debug\net8.0\ProgramaDesconto.genruntimeconfig.cache
+C:\Users\Vinicio\source\repos\ProgramaDesconto\obj\Debug\net8.0\ref\ProgramaDesconto.dll

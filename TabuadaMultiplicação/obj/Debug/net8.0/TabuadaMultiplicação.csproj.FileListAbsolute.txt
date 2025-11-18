@@ -1,0 +1,15 @@
+C:\Users\Vinicio\source\repos\TabuadaMultiplicação\bin\Debug\net8.0\TabuadaMultiplicação.exe
+C:\Users\Vinicio\source\repos\TabuadaMultiplicação\bin\Debug\net8.0\TabuadaMultiplicação.deps.json
+C:\Users\Vinicio\source\repos\TabuadaMultiplicação\bin\Debug\net8.0\TabuadaMultiplicação.runtimeconfig.json
+C:\Users\Vinicio\source\repos\TabuadaMultiplicação\bin\Debug\net8.0\TabuadaMultiplicação.dll
+C:\Users\Vinicio\source\repos\TabuadaMultiplicação\bin\Debug\net8.0\TabuadaMultiplicação.pdb
+C:\Users\Vinicio\source\repos\TabuadaMultiplicação\obj\Debug\net8.0\TabuadaMultiplicação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicio\source\repos\TabuadaMultiplicação\obj\Debug\net8.0\TabuadaMultiplicação.AssemblyInfoInputs.cache
+C:\Users\Vinicio\source\repos\TabuadaMultiplicação\obj\Debug\net8.0\TabuadaMultiplicação.AssemblyInfo.cs
+C:\Users\Vinicio\source\repos\TabuadaMultiplicação\obj\Debug\net8.0\TabuadaMultiplicação.csproj.CoreCompileInputs.cache
+C:\Users\Vinicio\source\repos\TabuadaMultiplicação\obj\Debug\net8.0\TabuadaMultiplicação.sourcelink.json
+C:\Users\Vinicio\source\repos\TabuadaMultiplicação\obj\Debug\net8.0\TabuadaMultiplicação.dll
+C:\Users\Vinicio\source\repos\TabuadaMultiplicação\obj\Debug\net8.0\refint\TabuadaMultiplicação.dll
+C:\Users\Vinicio\source\repos\TabuadaMultiplicação\obj\Debug\net8.0\TabuadaMultiplicação.pdb
+C:\Users\Vinicio\source\repos\TabuadaMultiplicação\obj\Debug\net8.0\TabuadaMultiplicação.genruntimeconfig.cache
+C:\Users\Vinicio\source\repos\TabuadaMultiplicação\obj\Debug\net8.0\ref\TabuadaMultiplicação.dll

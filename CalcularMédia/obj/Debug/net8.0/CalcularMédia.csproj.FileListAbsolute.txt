@@ -1,0 +1,15 @@
+C:\Users\Vinicio\source\repos\CalcularMédia\bin\Debug\net8.0\CalcularMédia.exe
+C:\Users\Vinicio\source\repos\CalcularMédia\bin\Debug\net8.0\CalcularMédia.deps.json
+C:\Users\Vinicio\source\repos\CalcularMédia\bin\Debug\net8.0\CalcularMédia.runtimeconfig.json
+C:\Users\Vinicio\source\repos\CalcularMédia\bin\Debug\net8.0\CalcularMédia.dll
+C:\Users\Vinicio\source\repos\CalcularMédia\bin\Debug\net8.0\CalcularMédia.pdb
+C:\Users\Vinicio\source\repos\CalcularMédia\obj\Debug\net8.0\CalcularMédia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicio\source\repos\CalcularMédia\obj\Debug\net8.0\CalcularMédia.AssemblyInfoInputs.cache
+C:\Users\Vinicio\source\repos\CalcularMédia\obj\Debug\net8.0\CalcularMédia.AssemblyInfo.cs
+C:\Users\Vinicio\source\repos\CalcularMédia\obj\Debug\net8.0\CalcularMédia.csproj.CoreCompileInputs.cache
+C:\Users\Vinicio\source\repos\CalcularMédia\obj\Debug\net8.0\CalcularMédia.sourcelink.json
+C:\Users\Vinicio\source\repos\CalcularMédia\obj\Debug\net8.0\CalcularMédia.dll
+C:\Users\Vinicio\source\repos\CalcularMédia\obj\Debug\net8.0\refint\CalcularMédia.dll
+C:\Users\Vinicio\source\repos\CalcularMédia\obj\Debug\net8.0\CalcularMédia.pdb
+C:\Users\Vinicio\source\repos\CalcularMédia\obj\Debug\net8.0\CalcularMédia.genruntimeconfig.cache
+C:\Users\Vinicio\source\repos\CalcularMédia\obj\Debug\net8.0\ref\CalcularMédia.dll

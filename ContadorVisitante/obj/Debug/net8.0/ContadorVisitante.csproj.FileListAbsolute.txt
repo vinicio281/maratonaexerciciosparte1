@@ -1,0 +1,15 @@
+C:\Users\Vinicio\source\repos\ContadorVisitante\bin\Debug\net8.0\ContadorVisitante.exe
+C:\Users\Vinicio\source\repos\ContadorVisitante\bin\Debug\net8.0\ContadorVisitante.deps.json
+C:\Users\Vinicio\source\repos\ContadorVisitante\bin\Debug\net8.0\ContadorVisitante.runtimeconfig.json
+C:\Users\Vinicio\source\repos\ContadorVisitante\bin\Debug\net8.0\ContadorVisitante.dll
+C:\Users\Vinicio\source\repos\ContadorVisitante\bin\Debug\net8.0\ContadorVisitante.pdb
+C:\Users\Vinicio\source\repos\ContadorVisitante\obj\Debug\net8.0\ContadorVisitante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicio\source\repos\ContadorVisitante\obj\Debug\net8.0\ContadorVisitante.AssemblyInfoInputs.cache
+C:\Users\Vinicio\source\repos\ContadorVisitante\obj\Debug\net8.0\ContadorVisitante.AssemblyInfo.cs
+C:\Users\Vinicio\source\repos\ContadorVisitante\obj\Debug\net8.0\ContadorVisitante.csproj.CoreCompileInputs.cache
+C:\Users\Vinicio\source\repos\ContadorVisitante\obj\Debug\net8.0\ContadorVisitante.sourcelink.json
+C:\Users\Vinicio\source\repos\ContadorVisitante\obj\Debug\net8.0\ContadorVisitante.dll
+C:\Users\Vinicio\source\repos\ContadorVisitante\obj\Debug\net8.0\refint\ContadorVisitante.dll
+C:\Users\Vinicio\source\repos\ContadorVisitante\obj\Debug\net8.0\ContadorVisitante.pdb
+C:\Users\Vinicio\source\repos\ContadorVisitante\obj\Debug\net8.0\ContadorVisitante.genruntimeconfig.cache
+C:\Users\Vinicio\source\repos\ContadorVisitante\obj\Debug\net8.0\ref\ContadorVisitante.dll

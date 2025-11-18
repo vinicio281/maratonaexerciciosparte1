@@ -1,0 +1,15 @@
+C:\Users\Vinicio\source\repos\QuantidadeEstoque\bin\Debug\net8.0\QuantidadeEstoque.exe
+C:\Users\Vinicio\source\repos\QuantidadeEstoque\bin\Debug\net8.0\QuantidadeEstoque.deps.json
+C:\Users\Vinicio\source\repos\QuantidadeEstoque\bin\Debug\net8.0\QuantidadeEstoque.runtimeconfig.json
+C:\Users\Vinicio\source\repos\QuantidadeEstoque\bin\Debug\net8.0\QuantidadeEstoque.dll
+C:\Users\Vinicio\source\repos\QuantidadeEstoque\bin\Debug\net8.0\QuantidadeEstoque.pdb
+C:\Users\Vinicio\source\repos\QuantidadeEstoque\obj\Debug\net8.0\QuantidadeEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicio\source\repos\QuantidadeEstoque\obj\Debug\net8.0\QuantidadeEstoque.AssemblyInfoInputs.cache
+C:\Users\Vinicio\source\repos\QuantidadeEstoque\obj\Debug\net8.0\QuantidadeEstoque.AssemblyInfo.cs
+C:\Users\Vinicio\source\repos\QuantidadeEstoque\obj\Debug\net8.0\QuantidadeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Vinicio\source\repos\QuantidadeEstoque\obj\Debug\net8.0\QuantidadeEstoque.sourcelink.json
+C:\Users\Vinicio\source\repos\QuantidadeEstoque\obj\Debug\net8.0\QuantidadeEstoque.dll
+C:\Users\Vinicio\source\repos\QuantidadeEstoque\obj\Debug\net8.0\refint\QuantidadeEstoque.dll
+C:\Users\Vinicio\source\repos\QuantidadeEstoque\obj\Debug\net8.0\QuantidadeEstoque.pdb
+C:\Users\Vinicio\source\repos\QuantidadeEstoque\obj\Debug\net8.0\QuantidadeEstoque.genruntimeconfig.cache
+C:\Users\Vinicio\source\repos\QuantidadeEstoque\obj\Debug\net8.0\ref\QuantidadeEstoque.dll
